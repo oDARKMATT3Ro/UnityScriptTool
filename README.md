@@ -1,5 +1,5 @@
 # Unity Script Tool
-Unity Script Tool is a template for custom Unity components and is built with Unity 2017.3.1f1.
+Unity Script Tool is a template for custom Unity components that I built specifically for my application to Blizzard and is built with Unity 2017.3.1f1.
 
 Copyright ImagiTech Studios, LLC 2018. 
 For further information on ImagiTech Studios, see [here](http://www.imagitechstudios.com/) .
@@ -22,3 +22,4 @@ Email. info@imagitechstudios.com
 ## Unity Script Tool Commit List
 
 * UST00 Initial Commit
+* UST01 Exported to UnityScriptTool custom asset package
